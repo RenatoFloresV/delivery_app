@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423372987319",
+    "firebase_url": "https://myfirtsstore-default-rtdb.firebaseio.com",
+    "project_id": "myfirtsstore",
+    "storage_bucket": "myfirtsstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423372987319:android:d0b13f33eeeef981e3a632",
+        "android_client_info": {
+          "package_name": "com.example.delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423372987319-g75fqb70m02ue9qammg78fja10jrlk8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGnNUXVXX4aZxMSl0wsaY23yBC3Dypfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423372987319-g75fqb70m02ue9qammg78fja10jrlk8i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "423372987319-4knfhvbllm8sksqttasgtv537q7heqc4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "firtsstore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
